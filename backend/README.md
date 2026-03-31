@@ -64,4 +64,3 @@ npm run simulate
 ```
 
 ---
-*Aegis.AI Architecture v1.0*
