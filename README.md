@@ -3,7 +3,7 @@
   <p align="center">
     <strong>Neuro-Behavioral Anti-Bot Defense System</strong>
     <br />
-    <em>Team Leviosa · Hackovium 2026</em>
+    <em>Team Cortex Forge · Hackovium 2026</em>
   </p>
 </p>
 
