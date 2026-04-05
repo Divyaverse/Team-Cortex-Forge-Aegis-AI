@@ -10,7 +10,7 @@
 > **Eradicate Bots. By Behavior.** <br />
 > An enterprise-grade Cybersecurity Command Center built to detect automated attacks on FinTech platforms using behavioral AI, Spatio-Temporal Analysis, and Isolation Forest anomaly detection.
 
-Developed by **Team Leviosa** for **HackUp 2026** (Navi Mumbai's Largest Hackathon by Hack The Core).
+Developed by **Cortex Forge** for **HackUp 2026** (Navi Mumbai's Largest Hackathon by Hack The Core).
 
 ---
 
@@ -110,7 +110,7 @@ Open your browser and navigate to:http://localhost:3000 — Marketing / 3D Landi
     └── index.ts               # TypeScript interfaces
 
 ## Team
-🏆 Team Leviosa Built with ❤️ 
+🏆 Team Cortex Forge Built with ❤️ 
 | Name           | Role       | College                                |
 |----------------|------------|----------------------------------------|
 | Harman Saini   | ML         | Chhatrapati Shivaji Maharaj University |
